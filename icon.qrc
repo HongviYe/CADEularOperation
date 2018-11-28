@@ -1,0 +1,56 @@
+<RCC>
+    <qresource prefix="/new/icon">
+        <file>cfd.png</file>
+        <file>test.ico</file>
+        <file>icon/root.ico</file>
+        <file>icon/add.png</file>
+        <file>icon/API接入.png</file>
+        <file>icon/cube.png</file>
+        <file>icon/curvedFace.png</file>
+        <file>icon/curvedFace2.png</file>
+        <file>icon/face.png</file>
+        <file>icon/face1.png</file>
+        <file>icon/ico_note.png</file>
+        <file>icon/light.png</file>
+        <file>icon/line.png</file>
+        <file>icon/new.png</file>
+        <file>icon/open.png</file>
+        <file>icon/opencase.ico</file>
+        <file>icon/player_play.png</file>
+        <file>icon/player_stop.png</file>
+        <file>icon/run.ico</file>
+        <file>icon/save.png</file>
+        <file>icon/setting.ico</file>
+        <file>icon/smooth.png</file>
+        <file>icon/spinner.png</file>
+        <file>icon/spinner_small.png</file>
+        <file>icon/StatusModified.ico</file>
+        <file>icon/StatusNormal.ico</file>
+        <file>icon/surface.png</file>
+        <file>icon/test.ico</file>
+        <file>icon/timg.jpg</file>
+        <file>icon/tool-pro.ico</file>
+        <file>icon/triangle3.png</file>
+        <file>icon/vertex.png</file>
+        <file>icon/保存.png</file>
+        <file>icon/点.png</file>
+        <file>icon/文件夹.png</file>
+        <file>icon/运行.png</file>
+        <file>icon/redo.png</file>
+        <file>icon/undo.png</file>
+        <file>icon/pos_X.gif</file>
+        <file>icon/pos_Y.gif</file>
+        <file>icon/pos_Z.gif</file>
+        <file>icon/iso.gif</file>
+    </qresource>
+    <qresource prefix="/">
+        <file>icon/E_MergeMesh48.gif</file>
+        <file>icon/pers.gif</file>
+        <file>icon/mesh.png</file>
+        <file>icon/lineshow.png</file>
+    </qresource>
+    <qresource prefix="/shader">
+        <file>fragmentshader.frag</file>
+        <file>vertexshader.vert</file>
+    </qresource>
+</RCC>
