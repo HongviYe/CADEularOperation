@@ -1,9 +1,4 @@
-<!-- TOC -->
 
-- [基于B-rep的建模操作及其算法](#%E5%9B%9B-%E5%9F%BA%E4%BA%8Eb-rep%E7%9A%84%E5%BB%BA%E6%A8%A1%E6%93%8D%E4%BD%9C%E5%8F%8A%E5%85%B6%E7%AE%97%E6%B3%95)
-    - [欧拉操作](#%E6%AC%A7%E6%8B%89%E6%93%8D%E4%BD%9C)
-
-<!-- /TOC -->
 
 # 基于B-rep的建模操作及其算法
 上了高老师的cad课，高老师的课十几年来不变的大作业就是基于半边结构的5个欧拉操作和sweep扫成cad模型的实现，以下是高老师上课时讲的一些干货，brep的基础知识请自行百度。
@@ -43,4 +38,3 @@
   图形交互界面
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/20181128155812225.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3loZl9uYWl2ZQ==,size_16,color_FFFFFF,t_70)
 
-下载地址：https://download.csdn.net/download/yhf_naive/10813480
